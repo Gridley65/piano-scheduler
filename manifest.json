@@ -1,0 +1,21 @@
+{
+  "name": "Deborah's Piano Studio",
+  "short_name": "Piano Studio",
+  "start_url": "/piano-scheduler/",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#f6f4ee",
+  "icons": [
+    {
+      "src": "/piano-scheduler/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/piano-scheduler/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
