@@ -3,8 +3,8 @@
   "short_name": "Piano Studio",
   "start_url": "/piano-scheduler/",
   "display": "standalone",
-  "background_color": "#f1ece1",
-  "theme_color": "#fdfbf7",
+  "background_color": "#f6f4ee",
+  "theme_color": "#f6f4ee",
   "icons": [
     {
       "src": "/piano-scheduler/icon-192.png",
