@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/piano-scheduler/sw.js', { scope: '/piano-scheduler/' })})}
